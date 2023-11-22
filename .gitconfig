@@ -9,4 +9,4 @@
 [sequence]
 	editor = code --wait
 [credential]
-	helper = "!f() { /home/jovyan/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-2124a8d9-8033-4ca5-bed1-7bb6d7c066a9.js git-credential-helper $*; }; f"
+	helper = "!f() { /home/jovyan/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node /tmp/vscode-remote-containers-6e003dde-953f-4903-a467-c5fdad3d3ced.js git-credential-helper $*; }; f"
