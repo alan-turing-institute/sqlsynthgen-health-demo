@@ -1,6 +1,6 @@
-# Synthetic Data Generation with SQLSynthGen
+# Synthetic Data Generation
 
-A demonstration of SQLSynthGen, in a healthcare example.
+A Python demonstration, in a healthcare example.
 
 ## Credits
 
